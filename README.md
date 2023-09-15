@@ -1,5 +1,4 @@
-# Script-AD1
-Script simples para utilizar no servidor de Active Directory.
-Basicamente para melhor rapidez para buscar iformações.
+# Script's para Active Directory via PowerShell
+Aqui você irá encontrar Scripts para arquivos .ps1 para projetos de seu dia-dia
 
-Em breve + Scipts para uso do DIA-DIA.
+Em breve + Scipts!
